@@ -15,7 +15,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String TAG = ActivityLifestycle.class.getSimpleName();
+    private String TAG = ActivityLifecycle.class.getSimpleName();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
